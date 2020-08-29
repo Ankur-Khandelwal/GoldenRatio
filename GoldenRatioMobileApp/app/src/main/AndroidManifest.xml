@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.secondprototype">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/screenlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/screenlogo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Tag_9_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity android:name=".Tag_8_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity android:name=".Tag_7_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity android:name=".Tag_6_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr" />
+
+        <activity
+            android:name=".Tag_5_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity
+            android:name=".Tag_4_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity
+            android:name=".Tag_3_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity
+            android:name=".Tag_2_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity
+            android:name=".Tag_1_Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noBAr"/>
+
+        <activity
+            android:name=".Home"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".StartPlayer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

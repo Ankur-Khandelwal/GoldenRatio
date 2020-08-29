@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Golden Ratio App</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_sample">SampleActivity</string>
+
+    <string name="hello_world">Hello Square World!</string>
+
+    <string-array name="sp_fil">
+        <item>All</item>
+        <item>Animal</item>
+        <item>Architecture</item>
+    </string-array>
+
+    <string name="home_tab">Home</string>
+    <string name="examples_tab">EXAMPLES</string>
+    <string name="interactive_tab">Home</string>
+    <string name="tag1">Introduction</string>
+    <string name="tag2">What is Golden Ratio</string>
+
+
+</resources>
