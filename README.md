@@ -26,7 +26,7 @@ We were successfully able to create the UI we planned. We made use of Grid Layou
                     OR  
    Run the project files in GoldenRatioMobileApp folder in android studio
    
-### For Third Interactive App   
+### For Third Interactive Tab
 3)Install python and necessary libraries from requirements.txt 
 
 4)Run the app.py file
