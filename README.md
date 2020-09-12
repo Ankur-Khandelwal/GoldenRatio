@@ -17,6 +17,7 @@ We were successfully able to create the UI we planned. We made use of Grid Layou
 <img src="https://github.com/Ergolifts/GoldenRatio/blob/master/readmeImages/Snapshot7.jpg" width="200" height="350">
 
 ## Instructions
+### For Running The App
 1) Download this zip file from the repository and extract it
 
    https://github.com/Ergolifts/GoldenRatio.git 
@@ -24,6 +25,13 @@ We were successfully able to create the UI we planned. We made use of Grid Layou
 2) Download the app through apk in the apk folder  
                     OR  
    Run the project files in GoldenRatioMobileApp folder in android studio
+   
+### For Third Interactive App   
+3)Install python and necessary libraries from requirements.txt 
+
+4)Run the app.py file
+  
+   
    
 
    
