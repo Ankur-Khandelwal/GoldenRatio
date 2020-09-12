@@ -11,5 +11,17 @@ We aimed to build an android application with a appealing UI and fulfilling all 
 ## What We Accomplished
 We were successfully able to create the UI we planned. We made use of Grid Layout and Recycler View in our fragment layouts. We made use of external libraries -glide and ExoPlayer for our photos and videos. We stored our app data in Firebase Storage and Firebase Realtime Databse. We successfully wrote the code for continuous internet connectivity check by creating our own service within our app. We made a filter spinner for filtering the categories of examples. Using the OpenCV and Dlib libraries, we created our python file for calculating the ratio of the dimensions of the face and comparing it with golden ratio. We are using PIL for placing the golden ratio. The image processing for the service was built and but we faced some problems in hosting it into the cloud services.
 
+<img src="https://github.com/Ergolifts/GoldenRatio/blob/master/readmeImages/Snapshot.jpg" width="200" height="350">
+<img src="https://github.com/Ergolifts/GoldenRatio/blob/master/readmeImages/Snapshot1.jpg" width="200" height="350">
+<img src="https://github.com/Ergolifts/GoldenRatio/blob/master/readmeImages/Snapshot4.jpg" width="200" height="350">
+<img src="https://github.com/Ergolifts/GoldenRatio/blob/master/readmeImages/Snapshot7.jpg" width="200" height="350">
+
+## Instructions
+1) Download this zip file and extract it
+
+file:///home/umang/Downloads/GoldenRatio_master.zip
+
+
+
 
 
